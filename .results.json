@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2026-04-09T01:31:52.767Z",
-    "end": "2026-04-09T01:31:53.620Z",
-    "duration": 853
+    "start": "2026-04-09T01:38:54.944Z",
+    "end": "2026-04-09T01:38:55.725Z",
+    "duration": 781
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "is a floating number",
       "fullTitle": "index.js avg_temperature_in_fahrenheit is a floating number",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
